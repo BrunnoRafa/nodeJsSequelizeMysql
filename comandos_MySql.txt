@@ -1,0 +1,16 @@
+comando para utilizar no Terminal MySql
+
+mostrar databases
+show databases;
+
+criar database
+create database nome_database;
+
+identificar qual database deve ser utilizada
+use nome_database;
+
+mostrar tabelas
+show tables;
+
+exibir estrutura de uma tabala especifica
+describe NomeTabela;
